@@ -1,4 +1,4 @@
-# Data Science Introduction Labs
+# Data Science Introduction Activities
 
 ## Overview
 
